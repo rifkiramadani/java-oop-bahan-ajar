@@ -1,5 +1,5 @@
 public class main {
-    public static void main(String[] args) {
+    public static void mahasiswa(String[] args) {
         String nama = "Muhammad Rifky Ramadani";
         int umur = 15;
         double  ipk = 4.00;
