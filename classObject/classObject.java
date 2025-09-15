@@ -10,7 +10,7 @@ class Mobil {
     }
 }
 
-class classObject {
+public class classObject {
     public static void main(String[] args) {
         Mobil mobil1 = new Mobil();
         mobil1.nama = "Avanza";

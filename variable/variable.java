@@ -1,4 +1,6 @@
-public class main {
+package variable;
+
+public class variable {
     public static void mahasiswa(String[] args) {
         String nama = "Muhammad Rifky Ramadani";
         int umur = 15;

@@ -1,4 +1,5 @@
-public class constructor {
+package constructor;
+class constructor {
     String nama;
     String hobi;
     int umur;
@@ -10,7 +11,7 @@ public class constructor {
     }
 }
 
-class mahasiswa {
+public class mahasiswa {
     public static void main(String[] args) {
         constructor mhs1 = new constructor("Muhammad Rifky Ramadani", "Mancing", 10);
         System.out.println("Halo, nama saya " + mhs1.nama);
