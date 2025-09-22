@@ -1,4 +1,4 @@
-package encaptulation;
+package praktikum3;
 class mahasiswa {
     private String nama;
     private int umur;

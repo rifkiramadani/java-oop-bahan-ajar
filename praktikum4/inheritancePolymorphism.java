@@ -1,4 +1,4 @@
-package inheritancePolymorphism;
+package praktikum4;
 
 class Dosen {
     String nama;

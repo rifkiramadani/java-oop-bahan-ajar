@@ -1,4 +1,4 @@
-package variable;
+
 
 public class variable {
     public static void mahasiswa(String[] args) {

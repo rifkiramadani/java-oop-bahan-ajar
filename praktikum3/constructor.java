@@ -1,4 +1,4 @@
-package constructor;
+package praktikum3;
 class mahasiswa {
     String nama;
     String hobi;
